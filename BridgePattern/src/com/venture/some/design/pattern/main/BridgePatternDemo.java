@@ -12,10 +12,10 @@ public class BridgePatternDemo {
 
 	public static void main(String[] args) {
 		
-		Shape redCircle = new Circle(100,100,10,new DrawRedCircle());
-		Shape greenCircle = new Circle(100,100,10,new DrawGreenCircle());
+		Shape redCircle = new Circle(10,20,30,new DrawRedCircle());
+		Shape greenCircle = new Circle(30,20,10,new DrawGreenCircle());
 		Shape redSquare = new Square(10,new DrawRedSquare());
-		Shape greenSquare = new Square(10,new DrawGreenSquare());
+		Shape greenSquare = new Square(20,new DrawGreenSquare());
 		
 		redCircle.draw();
 		greenCircle.draw();

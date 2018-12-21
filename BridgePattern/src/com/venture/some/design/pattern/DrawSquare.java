@@ -4,7 +4,7 @@ public abstract class DrawSquare implements DrawShape {
 
 	protected int x;
 	
-	public void drawSquare(int x) {
+	public void setupSquare(int x) {
 		this.x = x;
 	}
 }
