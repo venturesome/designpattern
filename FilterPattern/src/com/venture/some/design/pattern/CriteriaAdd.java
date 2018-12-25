@@ -2,7 +2,6 @@ package com.venture.some.design.pattern;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 import com.venture.some.design.pattern.main.Person;
 
