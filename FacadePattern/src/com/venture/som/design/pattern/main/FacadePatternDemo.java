@@ -1,8 +1,8 @@
 package com.venture.som.design.pattern.main;
 
-import com.venture.som.design.pattern.impl.Circle;
-import com.venture.som.design.pattern.impl.Rectangle;
-import com.venture.som.design.pattern.impl.Square;
+import com.venture.some.design.pattern.impl.Circle;
+import com.venture.some.design.pattern.impl.Rectangle;
+import com.venture.some.design.pattern.impl.Square;
 
 public class FacadePatternDemo {
 

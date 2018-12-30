@@ -1,6 +1,6 @@
-package com.venture.som.design.pattern.impl;
+package com.venture.some.design.pattern.impl;
 
-import com.venture.som.design.pattern.Shape;
+import com.venture.some.design.pattern.Shape;
 
 public class Circle implements Shape {
 	

@@ -1,4 +1,4 @@
-package com.venture.som.design.pattern;
+package com.venture.some.design.pattern;
 
 public interface Shape {
 	

@@ -1,6 +1,6 @@
 package com.venture.som.design.pattern.main;
 
-import com.venture.som.design.pattern.Shape;
+import com.venture.some.design.pattern.Shape;
 
 public class ShapeMaker {
 
