@@ -1,4 +1,4 @@
-package com.venture.some.design.pattern.impl;
+package com.venture.some.design.pattern.main;
 
 import java.util.ArrayList;
 import java.util.List;
